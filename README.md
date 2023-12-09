@@ -1,3 +1,3 @@
-# CTTodayOct23
+# CTToday
 
-CT Today mailer for October 2023.
+CT Today sample newsletter with 4 articles 2023.
